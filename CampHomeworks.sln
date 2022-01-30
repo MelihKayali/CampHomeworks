@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2Homework", "Day2Homewor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefAndOutKeywords", "Day3Homeworks\RefAndOutKeywords.csproj", "{E8CFE493-4494-461E-985D-AB3A26256992}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{B1124ED2-593F-43B4-A27A-DDB43BFAC60A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E8CFE493-4494-461E-985D-AB3A26256992}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8CFE493-4494-461E-985D-AB3A26256992}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8CFE493-4494-461E-985D-AB3A26256992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1124ED2-593F-43B4-A27A-DDB43BFAC60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1124ED2-593F-43B4-A27A-DDB43BFAC60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1124ED2-593F-43B4-A27A-DDB43BFAC60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1124ED2-593F-43B4-A27A-DDB43BFAC60A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
