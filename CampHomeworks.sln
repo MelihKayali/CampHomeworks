@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampHomeworks", "CampHomeworks\CampHomeworks.csproj", "{318D42B5-6C84-4995-915C-400C3A697203}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampHomeworks", "CampHomeworks\CampHomeworks.csproj", "{318D42B5-6C84-4995-915C-400C3A697203}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2Homework", "Day2Homework\Day2Homework.csproj", "{9F57AA29-AAFF-4F13-9412-F3EC379ACF98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2Homework", "Day2Homework\Day2Homework.csproj", "{9F57AA29-AAFF-4F13-9412-F3EC379ACF98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefAndOutKeywords", "Day3Homeworks\RefAndOutKeywords.csproj", "{E8CFE493-4494-461E-985D-AB3A26256992}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefAndOutKeywords", "Day3Homeworks\RefAndOutKeywords.csproj", "{E8CFE493-4494-461E-985D-AB3A26256992}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{B1124ED2-593F-43B4-A27A-DDB43BFAC60A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{B1124ED2-593F-43B4-A27A-DDB43BFAC60A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferanceTypes", "ReferanceTypes\ReferanceTypes.csproj", "{8A8AE7B6-409A-4763-B92E-E26D0E244473}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B1124ED2-593F-43B4-A27A-DDB43BFAC60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1124ED2-593F-43B4-A27A-DDB43BFAC60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1124ED2-593F-43B4-A27A-DDB43BFAC60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8AE7B6-409A-4763-B92E-E26D0E244473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8AE7B6-409A-4763-B92E-E26D0E244473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8AE7B6-409A-4763-B92E-E26D0E244473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8AE7B6-409A-4763-B92E-E26D0E244473}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
