@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyList", "MyList\MyList.csproj", "{33A9A7DD-2835-49B3-89C5-10635E833CFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSellerDemo", "GameSellerDemo\GameSellerDemo.csproj", "{4DFA695B-876F-4383-B287-B93CE4EF7824}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameSellerDemo", "GameSellerDemo\GameSellerDemo.csproj", "{4DFA695B-876F-4383-B287-B93CE4EF7824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{DC2A9D75-85C5-40C7-AE73-9BBE97E1472A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{0B9BC7C3-E7F5-4609-A6A3-7C78DC4DBCA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{4DFA695B-876F-4383-B287-B93CE4EF7824}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DFA695B-876F-4383-B287-B93CE4EF7824}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DFA695B-876F-4383-B287-B93CE4EF7824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2A9D75-85C5-40C7-AE73-9BBE97E1472A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2A9D75-85C5-40C7-AE73-9BBE97E1472A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2A9D75-85C5-40C7-AE73-9BBE97E1472A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2A9D75-85C5-40C7-AE73-9BBE97E1472A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9BC7C3-E7F5-4609-A6A3-7C78DC4DBCA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9BC7C3-E7F5-4609-A6A3-7C78DC4DBCA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9BC7C3-E7F5-4609-A6A3-7C78DC4DBCA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9BC7C3-E7F5-4609-A6A3-7C78DC4DBCA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
